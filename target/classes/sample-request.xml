@@ -1,0 +1,7 @@
+<AddressRequest>
+  <Street>1600 Amphitheatre Pkwy</Street>
+  <City>Mountain View</City>
+  <State>CA</State>
+  <PostalCode>94043</PostalCode>
+  <Country>US</Country>
+</AddressRequest>
